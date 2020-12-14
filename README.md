@@ -50,9 +50,9 @@ We developed a very simple lane detection system that could detect straight lane
 ![out.gif](output/full_cnn_res.gif)
 
 ### Database
-Images: https://www.dropbox.com/s/1bnp70bhaz5kma9/coeffs_train.p
-Label: https://www.dropbox.com/s/ieulvrcooetrlmd/coeffs_labels.p
-Result: https://drive.google.com/drive/folders/1nPzF4v6YI8-CWsGoYONS0ezrunSLjGAr?usp=sharing
+Images: https://www.dropbox.com/s/1bnp70bhaz5kma9/coeffs_train.p <br>
+Label: https://www.dropbox.com/s/ieulvrcooetrlmd/coeffs_labels.p <br>
+Result: https://drive.google.com/drive/folders/1nPzF4v6YI8-CWsGoYONS0ezrunSLjGAr?usp=sharing <br>
 
 ```
 ▪The End
