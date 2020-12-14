@@ -10,7 +10,10 @@ BHAVISHYA RAJ  bhavis58_soe@jnu.ac.in <br>
 To make a Vision-Based – Robust Lane Detection and Prediction System. 
 
 
-<a href = "https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs"><h4>DATASET DESCRIPTION</h4> </a>
+<h4>DATASET DESCRIPTION</h4>
+Images: https://www.dropbox.com/s/1bnp70bhaz5kma9/coeffs_train.p <br>
+Label: https://www.dropbox.com/s/ieulvrcooetrlmd/coeffs_labels.p <br>
+Result: https://drive.google.com/drive/folders/1nPzF4v6YI8-CWsGoYONS0ezrunSLjGAr?usp=sharing <br>
 
 Data is presented in txt format that we will convert it into a csv file. It includes attributes such as Date, Open, High, Low, Close, Volume, OpenInt. A lot of Ups and Downs in the value of Stocks and ETFs are present in the Dataset therefore we have a very wide variety of Database which we will perform to train and test our Model.
 
@@ -48,11 +51,6 @@ We developed a very simple lane detection system that could detect straight lane
 ![pipe.png](output/fullcnn-flow.png)
 
 ![out.gif](output/full_cnn_res.gif)
-
-### Database
-Images: https://www.dropbox.com/s/1bnp70bhaz5kma9/coeffs_train.p <br>
-Label: https://www.dropbox.com/s/ieulvrcooetrlmd/coeffs_labels.p <br>
-Result: https://drive.google.com/drive/folders/1nPzF4v6YI8-CWsGoYONS0ezrunSLjGAr?usp=sharing <br>
 
 ```
 ▪The End
