@@ -43,6 +43,16 @@ It works much better than the previous version, and it even handles curved lanes
 
 ![out.gif](curved-lane-detect/examples/out.gif)
 
+<a href = "https://github.com/brobotan/Vision-Based-Robust-Lane-Detection-and-Prediction/blob/main/fully_conv_NN.py"><h4>Full CNN Model</h4> </a>
+We developed a very simple lane detection system that could detect straight lane lines in an image. It worked decently under perfect conditions; however, it would fail to detect curved lanes accurately and was not robust to obstructions and shadows. This version im-proves upon both of these limitations. The structure of our simple lane detection pipeline:
+![pipe.png](output/fullcnn-flow.png)
+
+![out.gif](output/full_cnn_res.gif)
+
+### Database
+Images: https://www.dropbox.com/s/1bnp70bhaz5kma9/coeffs_train.p
+Label: https://www.dropbox.com/s/ieulvrcooetrlmd/coeffs_labels.p
+Result: https://drive.google.com/drive/folders/1nPzF4v6YI8-CWsGoYONS0ezrunSLjGAr?usp=sharing
 
 ```
 ▪The End
